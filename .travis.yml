@@ -1,8 +1,12 @@
-sudo: false
 language: java
-script: gradle clean test
+
 jdk:
-  - oraclejdk7
   - oraclejdk8
-  - openjdk7
+
+before_install:
+ - chmod +x gradlew
+
+script:
+  - ./gradlew assemble -x test
+
 
