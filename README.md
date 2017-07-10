@@ -23,13 +23,13 @@ To see this application working you will need to call both endpoints following t
 * 2 - Access the url: [LOCALHOST:PORT]/v1/diff/[ID]/right/[ENCODED JSON]
 * 3 - Access the url: [LOCALHOST:PORT]/v1/diff/[ID] [This url shows the result of the comparison]
 
-LEGENDS:
+#### LEGENDS:
 * LOCALHOST    - Address of the server
 * PORT         - Port of your application
 * ID           - ID of the file included
 * ENCODED JSON - JSON encoded in base64
 
-SAMPLES:
+#### SAMPLES:
 * 1 - http://localhost:8080/v1/diff/42/left/eyJhIjoiYSJ9
 * 2 - http://localhost:8080/v1/diff/42/right/eyJhIjoiYSJ9
 * 3 - http://localhost:8080/v1/diff/42
