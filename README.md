@@ -45,3 +45,9 @@ To see this application working you will need to call both endpoints following t
 [Coverage](https://jonatasemidio.github.io/diffsb/)
 
 
+---
+### Check Build Log on Travis:
+[Build](https://travis-ci.org/jonatasemidio/diffsb)
+
+
+
