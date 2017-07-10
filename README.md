@@ -33,3 +33,15 @@ SAMPLES:
 * 1 - http://localhost:8080/v1/diff/42/left/eyJhIjoiYSJ9
 * 2 - http://localhost:8080/v1/diff/42/right/eyJhIjoiYSJ9
 * 3 - http://localhost:8080/v1/diff/42
+
+
+---
+### Check list of improvements:
+[Improvements](https://github.com/jonatasemidio/diffsb/issues)
+
+
+---
+### Check Coverage:
+[Coverage]()
+
+
